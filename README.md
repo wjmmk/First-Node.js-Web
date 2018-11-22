@@ -12,6 +12,6 @@ tu proyecto y digitar el siguiente comando:
 Esto con el fin de instalar todas las dependencias necesarias para el normal funcionamiento 
 de este ejercicio. Estas dependencias son:
 
-el framework Express, el motor de plantillas (ejs) y la libreria morgan.
+El framework Express, el motor de plantillas (ejs) y la librería morgan.
 
 
