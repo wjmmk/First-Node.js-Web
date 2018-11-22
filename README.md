@@ -1,6 +1,6 @@
 # First-Node.js-Web
 
-se recomienda despues de descargar el proyecto para probarlo en tu computador que:
+se recomienda, una vez descargado el proyecto para ser probado en tu computador que:
 
 1. Debes asegurarte de haber instalado en tu maquina o computador Node.js.
 2. Debes tener tu editor de codigo o IDE previamente configurado para soportar tecnologias de back-end.
