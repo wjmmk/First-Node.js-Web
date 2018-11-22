@@ -7,12 +7,12 @@ se recomienda despues de descargar el proyecto para probarlo en tu computador qu
 3. En la linea de comandos: Shell, cmd, bach, etc. Asegurate de estar en la ruta correspondiente a
 tu proyecto y digitar el siguiente comando:
 
-> npm run dev
+  > npm run dev
 
-Esto con el fin de instalar todas las dependencias necesarias para el normal funcionamiento 
-de este ejercicio. Estas dependencias son:
+ Esto con el fin de instalar todas las dependencias necesarias para el normal funcionamiento 
+ de este ejercicio. Estas dependencias son:
 
-El framework Express, el motor de plantillas (ejs) y la librería morgan.
+ El framework Express, el motor de plantillas (ejs) y la librería morgan.
 
 4. Todo el código se encuentra en la carpeta (src). 
 
