@@ -14,4 +14,6 @@ de este ejercicio. Estas dependencias son:
 
 El framework Express, el motor de plantillas (ejs) y la librería morgan.
 
+4. Todo el código se encuentra en la carpeta (src). 
+
 
