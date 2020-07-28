@@ -7,7 +7,7 @@ se recomienda, una vez descargado el proyecto para ser probado en tu computador 
 3. En la linea de comandos: Shell, cmd, bach, etc. Asegurate de estar en la ruta correspondiente a
 tu proyecto y digitar el siguiente comando:
 
-  > npm run dev
+  > npm install
 
  Esto con el fin de instalar todas las dependencias necesarias para el normal funcionamiento 
  de este ejercicio. Estas dependencias son:
